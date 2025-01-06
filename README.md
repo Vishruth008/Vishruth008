@@ -64,8 +64,7 @@ I am actively seeking roles in:
 - **Artificial Intelligence (AI)** and **Machine Learning (ML)**
 - **Data Science** and **ETL Pipeline Development**
 
-Feel free to reach out for collaborations, project discussions, or exciting opportunities!
-## Hi there 👋
+Feel free to reach out for collaborations, project discussions, or exciting opportunities.
 
 <!--
 **Vishruth008/Vishruth008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
