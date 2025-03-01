@@ -8,7 +8,7 @@ I am a passionate and results-driven **Data Analyst and Business Intelligence pr
 
 ## 🚀 About Me
 - 🌍 Based in **Boston, MA**
-- 🎓 **Master’s in Information Systems** (2023–2025) at **Northeastern University**
+- 🎓 **Master’s in Information Systems** (2023–2025) at **Northeastern University**  (Graduating in April 2025)
   - **Relevant coursework:** **Designing Advanced Data Architecture and Business Intelligence (DADABI), Advanced Database Management**
 - 🎓 **Bachelor’s in Information Science and Engineering** (2019–2023) at **Don Bosco Institute of Technology**
   - **Relevant coursework:** Big Data Analytics, Data Mining, Python Application Programming
