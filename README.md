@@ -1,6 +1,4 @@
-Here’s the updated README with your revised coursework:
 
----
 
 # Hi, I'm Vishruth T Venugopal! 👋
 
