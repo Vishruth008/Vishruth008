@@ -1,79 +1,52 @@
+# Hello, I'm Vishruth Venugopal 👋
 
+I am a dedicated Information Systems professional with a passion for transforming raw data into actionable business insights. My expertise spans data analytics, data engineering, data science, and business intelligence, where I leverage technical skills to solve complex problems and drive data-informed decision-making. I thrive on building scalable data solutions and uncovering patterns that help organizations optimize their operations and strategy.
 
-# Hi, I'm Vishruth T Venugopal! 👋
+## 🌟 About Me
 
-I am a passionate and results-driven **Data Analyst and Business Intelligence professional** pursuing my Master's in **Information Systems** at **Northeastern University**. With expertise in **data analytics, business intelligence, and data engineering**, I leverage data-driven solutions to extract actionable insights and optimize business operations.
+- 📍 Based in **Boston, MA**
+- 🎓 **Master of Science in Information Systems** (2023-2025) at **Northeastern University**
+- 🎓 **Bachelor of Science in Information Science Engineering** (2019-2023) from **Don Bosco Institute of Technology**
 
----
+## 💼 Work Experience
 
-## 🚀 About Me
-- 🌍 Based in **Boston, MA**
-- 🎓 **Master’s in Information Systems** (2023–2025) at **Northeastern University**  (Graduating in April 2025)
-  - **Relevant coursework:** **Designing Advanced Data Architecture and Business Intelligence (DADABI), Advanced Database Management**
-- 🎓 **Bachelor’s in Information Science and Engineering** (2019–2023) at **Don Bosco Institute of Technology**
-  - **Relevant coursework:** Big Data Analytics, Data Mining, Python Application Programming
+### AI Skunkworks, Northeastern University (Sep 2024 - Apr 2025)
+At Northeastern's AI Skunkworks, I developed machine learning forecasting models that significantly improved campus resource optimization. I specialized in fine-tuning large language models with domain-specific data, which enhanced response relevance for specialized academic queries. My work with statistical methods on research experiment data identified key variables that advanced interdisciplinary project goals, combining technical expertise with practical problem-solving to deliver tangible improvements to university operations.
 
----
+### Rapsol Technologies (Jun 2022 - Aug 2022)
+During my research internship at Rapsol, I focused on cleaning and standardizing automotive datasets using Excel and Python, resulting in substantial data quality improvements. I applied statistical methods to analyze defense industry data and created visualizations that identified cost-saving opportunities. My implementation of A/B testing on vehicle component data generated insights that reduced testing time by 25%, demonstrating my ability to derive practical value from technical analysis.
+
+### Innovative Gulf (Sep 2021 - Dec 2021)
+As an Analyst at Innovative Gulf, I formulated investment tracking reports using Excel pivot tables and VBA macros, identifying underperforming assets requiring reallocation. I compiled weekly performance summaries across multiple asset classes, identifying opportunities for advisors' client strategies. My client-facing investment visualizations translated complex data into accessible insights for senior advisors, improving their ability to communicate investment performance and opportunities to clients.
+
+## 🚀 Featured Projects
+
+### Capstone Project: Data Analysis for Warren Group Company in MA
+Leveraged regression analysis on location and behavioral data to improve campaign ROI across retail stores. Performed market segmentation through statistical clustering of transactions, optimizing ad spend in high-value neighborhoods and generating insights for personalized marketing.
+
+### New York City Parking Violation Analysis
+Built an Airflow pipeline for millions of NYC parking records with anomaly detection, reducing ETL ingestion failures. Implemented transformation logic in Snowflake with dbt that reduced ETL processing time, enabling identification of potential high-risk violation zones.
+
+### GenTutor: Prompt-Based RAG System for Personalized Education
+Engineered a prompt-based RAG system utilizing document retrieval and LLM generation, enabling personalized learning with high accuracy. Integrated vector embeddings with sentence transformers across multiple educational domains and designed adaptive prompt templates for various learning styles.
 
 ## 🛠️ Technical Skills
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, SciPy), SQL, R
-- **Data Engineering & ETL Tools:** Apache Airflow, dbt, Talend, Alteryx, Microsoft SSIS, Azure Data Factory, Databricks, Salesforce
-- **Data Visualization & Business Intelligence:** Power BI, Tableau, Looker, Excel, A/B Testing, Adobe Analytics, Ad-hoc Analysis
-- **Databases & Cloud Platforms:** AWS, MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, Snowflake, Google BigQuery
-- **Version Control & Workflow Automation:** Git, GitHub, JIRA, Agile methodologies
+
+- **Languages:** SQL, R, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow)
+- **Data Engineering & ETL:** DBT, Apache Airflow, Talend, Alteryx, Azure Data Factory, Databricks
+- **Data Visualization & BI:** Power BI, Tableau, AWS QuickSight, Excel
+- **Databases & Cloud:** AWS, MySQL, PostgreSQL, Microsoft SQL Server, Snowflake
+
+## 🔗 Connect With Me
+
+- 📧 Email: [vishruthtv30@gmail.com](mailto:vishruthtv30@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vishruthtv](https://linkedin.com/in/vishruthtv)
+- 🐱 GitHub: [github.com/Vishruth008](https://github.com/Vishruth008)
+- 📊 Portfolio: [Portfolio Page](https://vishruthvenugopalportfoliopage.vercel.app/)
 
 ---
 
-## 🌟 Featured Projects
-### 📊 [Data Professional Insights Dashboard](https://github.com/Vishruth008/Data-Professional-Insights-Dashboard)
-- Built an interactive **Power BI dashboard** analyzing KPIs, demographics, and salary trends among **630+ data professionals**.
-- Designed multi-layered visualizations (tree maps, stacked bar charts, gauge charts) to **improve data interpretation by 30%**.
-- Implemented **ETL pipelines** integrating multi-source data, enhancing **data consistency by 30%**.
-
-### 🚔 [NYC Parking Violation Analysis](https://github.com/Vishruth008/ETLPipeline-ParkingViolations-SnowFlake)
-- Engineered an **automated data pipeline** with **Apache Airflow, Python, and AWS S3** to process **10M+ NYC parking violations**.
-- Developed a **Snowflake-based data warehouse** and applied dbt transformations, improving **data accessibility by 15%**.
-- Designed a **Tableau dashboard** to analyze violation trends, fine distributions, and enforcement patterns, **boosting reporting efficiency by 20%**.
-
-### 🔎 [Crime Data Insights & Reporting](https://github.com/Vishruth008/Crime-Data-Insights-and-Reporting)
-- Processed **10,000+ crime records**, applying data cleaning, handling missing values, and standardizing categorical fields.
-- Developed **Tableau dashboards** analyzing crime patterns across **50+ locations**, improving **crime pattern recognition by 30%**.
-- Applied **exploratory data analysis (EDA)** and statistical outlier detection, reducing **prediction errors by 35%**.
-
----
-
-## 💼 Experience
-### **Data Insights Analyst Intern** – Rapsol Technologies, Bangalore, India _(Sep 2023 – Apr 2025)_
-- Developed **machine learning models** and statistical analysis techniques (hypothesis testing, significance testing).
-- Built **SQL-based data reporting workflows**, improving **efficiency by 20%**.
-- Leveraged **Power BI and Tableau** to create interactive dashboards for decision-making.
-
-### **Jr. Data Analyst** – Innovative Gulf LLC, Doha, Qatar _(Jan 2021 – Jan 2022)_
-- Engineered **automated data pipelines** (Airflow, Python, AWS S3), reducing ingestion failures by **25%**.
-- Designed **financial data marts** for investment forecasting, optimizing **capital allocation by 35%**.
-- Created **Tableau dashboards** visualizing portfolio performance, improving **investment efficiency by 22%**.
-
----
-
-## 📊 Portfolio
-- Visit my [Portfolio Website](https://vishruth008.github.io/VishruthVenugopal.github.io/index.html) to explore my projects and contributions.
-
----
-
-## 📫 Let's Connect!
-- 📧 **Email:** [teluguvenugopal.v@northeastern.edu](mailto:teluguvenugopal.v@northeastern.edu)
-- 💼 **LinkedIn:** [Vishruth T Venugopal](https://www.linkedin.com/in/vishruthtv/)
-- 🐦 **GitHub:** [Vishruth008](https://github.com/Vishruth008)
-
----
-
-## 🎯 Career Goals
-I am actively seeking roles in:
-- **Data Analysis** (Business Intelligence, Data-Driven Decision Making)
-- **Business Intelligence & Data Visualization** (Power BI, Tableau)
-- **Data Engineering** (ETL Pipeline Development, Cloud Data Warehousing)
-
-🚀 Let’s collaborate on exciting projects or discuss potential opportunities!
+*Always looking to connect with fellow data enthusiasts and professionals for collaboration and learning opportunities!*
 
 
 
